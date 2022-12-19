@@ -2,7 +2,7 @@
 
 /* Cores
     Roxinho: #4C5395;
-    
+
 */
 
 * {
@@ -36,6 +36,8 @@ section#login {
     height: 500px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+    transition: width .4s, height .4s;
 }
 
 #login > #imagem {
