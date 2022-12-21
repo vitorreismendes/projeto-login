@@ -85,11 +85,11 @@ section#login {
 .campo > input {
     background-color: #90c0e4;
     font-size: 1em;
-    width: calc(100% - 45px);
     height: 100%;
     border: 0px;  
     border-radius: 8px;
     padding: 4px;
+    width: calc(100% - 45px);
     transform: translateY(-11px);
 }
 
